@@ -1,0 +1,8 @@
+#include "windows.h"
+#pragma code_page(65001)
+
+
+LANGUAGE 0,0
+
+1 24 manifest
+
